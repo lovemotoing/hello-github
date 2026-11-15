@@ -35,3 +35,10 @@ git push
 ## 提醒
 
 `.gitignore` 已经排除了 `.env`、密钥文件、`node_modules` 等。不要把密码或 token 写进代码提交上来。
+
+---
+
+## 练习记录
+
+- 2026-11-16：在 feature/readme-practice 分支上新增这一段，用来演示 Pull Request。
+- 这段改动目前只在分支上，合并 PR 之后才会进入 main。
